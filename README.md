@@ -1,1 +1,1 @@
-## Welcome to EriC Thomas github
+## Welcome to Eric Thomas github
